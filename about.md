@@ -12,4 +12,4 @@ I like coding.
 
 ### Contact me
 
-[ayushanshul07@mgmail.com](mailto:ayushanshul07@gmail.com)
+[ayushanshul07@gmail.com](mailto:ayushanshul07@gmail.com)
